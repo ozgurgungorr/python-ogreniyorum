@@ -1,1 +1,1 @@
-# python-reniyorum
+# python-ogreniyorum
